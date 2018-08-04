@@ -1,0 +1,14 @@
+body {
+	display: flex;
+	background: grey;
+}
+canvas {
+	 width: 500px;
+	  margin: 0 auto;
+}
+
+#box {
+    background-color: blue;
+    height: 500px;
+   
+}
